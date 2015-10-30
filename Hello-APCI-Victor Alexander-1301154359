@@ -1,5 +1,12 @@
-Program Hello;
-        Uses Crt; 
-        Begin
-            ClrScr;
-            Writeln(‘Hello World’); //
+Program Hello; // ubah menjadi Program APCI-NIM
+Uses Crt;
+Begin
+ClrScr;
+Writeln(‘Hello’);//
+Writeln(‘1301154359’); //
+Writeln(‘RAYNALDO LISTIANOV’); //
+Writeln(‘IF 39 09’); //
+Writeln(‘Victor Alexander’); //
+Writeln(‘1301150051’); //
+Writeln(‘Modul 6’); //
+End.
